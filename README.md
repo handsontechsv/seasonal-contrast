@@ -17,7 +17,8 @@ This is the official PyTorch implementation of the [SeCo paper](https://arxiv.or
 
 ### Preparation
 
-Install Python dependencies by running:
+- Use Python 3.10
+- Install Python dependencies by running:
 ```shell
 pip install -r requirements.txt
 ```
