@@ -30,8 +30,8 @@ First, obtain Earth Engine authentication credentials by following the [installa
 
 Then, to collect and download a new SeCo dataset from a random set of Earth locations, run:
 ```shell
-python datasets/seco_downloader.py \
-  --save_path [folder where data will be downloaded] \
+python seco_downloader.py \
+  --save_path seco \
   --num_locations 200000
 ```
 
